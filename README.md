@@ -17,3 +17,12 @@ This game is based on probability. While playing think which door you should cho
 3- Now player is asked whether he wants to change the gate that he choose or he wants to stick with the door that he has already choosen.
 
 4- Now the door of gate (that player chose) is opened. If it's a car then he won, else he lose.
+
+## To run this game you need to do -
+
+1- INSTALL DATASCIENCE LIBRARY using `pip`
+```
+pip install datascience
+```
+
+2- INSTALL NUMPY
