@@ -8,7 +8,7 @@ Player wins if he gets a car, otherwise loses.
 This game is based on probability. While playing think which door you should choose. 
 
 
-##Rules for playing this game
+## Rules for playing this game
 
 1- Player is asked to choose a gate among 3 gates.
 
